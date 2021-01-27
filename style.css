@@ -1,0 +1,106 @@
+.mainfont{
+    font-family: 'Nanum Gothic', sans-serif;
+    src: local("Nanum Gothic"), url("NanumGothic-Regular.ttf") format("truetype"); 
+}
+
+.secondfont{
+    font-family: 'Roboto', sans-serif;
+}
+
+.ownblog{
+    margin-left: 30px;
+    color: #eba22d;
+}
+
+#underhead{
+    padding-left: 90px;
+    color: #e8e8e8;
+    margin-top: -15px;
+}
+
+.headlink:hover{
+    text-decoration: none;
+}
+
+#headerbg{
+    background-color: #000000;
+}
+
+.button{
+    border-color: #eba22d;
+    color: #eba22d;
+    margin-right: 30px;
+}
+
+.button:hover{
+    color: #e4e6eb;
+    background-color: #eba22d;;
+}
+
+#leftbut{
+    margin-right: 15px;
+}
+
+#recread{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+}
+
+.recreadtitle{
+    text-align: center;
+    color: #B86001;
+    font-size: 24px;
+}
+
+
+.photo{
+    max-height: 200px;
+    width: auto;
+    padding-left: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+a{
+    text-decoration: none;
+    color: #000000;
+}
+
+footer{
+    background-color: #000000;
+    text-align: center;
+    color: #e4e6eb;
+    padding-top: 70px;
+    padding-bottom: 50px;
+}
+
+
+.logform{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 70px;
+}
+
+#formbut{
+    text-align: center;
+    padding-left: 20px;
+}
+
+.formtext{
+    text-align: left;
+}
+
+.author{
+    display: flex;
+    justify-content: start;
+    flex-wrap: nowrap;
+}
+
+#quote{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
