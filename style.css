@@ -75,7 +75,6 @@ footer{
     padding-bottom: 50px;
 }
 
-
 .logform{
     display: flex;
     justify-content: center;
@@ -107,4 +106,12 @@ footer{
     justify-content: flex-end;
     margin-top: 50px;
     margin-bottom: 50px;
+}
+
+.command{
+    text-decoration:solid;
+}
+
+.description{
+
 }
