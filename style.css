@@ -92,6 +92,10 @@ footer{
     text-align: left;
 }
 
+#confpass{
+    margin-left: 15px;
+}
+
 .author{
     display: flex;
     justify-content: start;
