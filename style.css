@@ -109,9 +109,44 @@ footer{
 }
 
 .command{
-    text-decoration:solid;
+    font-weight: bold;
 }
 
 .description{
+    
+}
 
+#car{
+    font-weight: bold;
+    color: #510FAD;
+    font-size: 24px;
+}
+
+#oar{
+    font-weight: bold;
+    color: #B23AD4;
+    font-size: 24px;
+}
+
+#wwb{
+    font-weight: bold;
+    color: #8144D6;
+    font-size: 24px;
+}
+
+#mac{
+    font-weight: bold;
+    color: #6A237E;
+    font-size: 24px;
+}
+#sync{
+    font-weight: bold;
+    color: #320571;
+    font-size: 24px;
+}
+
+#fin{
+    font-weight: bold;
+    color: #BB63D4;
+    font-size: 24px;
 }
